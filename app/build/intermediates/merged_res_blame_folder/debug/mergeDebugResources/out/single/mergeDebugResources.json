@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable_cat_morning.png.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\drawable\\cat_morning.png"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable_notif_play.xml.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\drawable\\notif_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable_notif_pet.xml.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\drawable\\notif_pet.xml"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable_notif_bath.xml.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\drawable\\notif_bath.xml"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-pngs-31:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-pngs-31:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable_cat_evening.png.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\drawable\\cat_evening.png"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable_cat_app_icon.xml.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\drawable\\cat_app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable_cat_day.png.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\drawable\\cat_day.png"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-pngs-31:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-pngs-31:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable_notif_food.xml.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\drawable\\notif_food.xml"
+    },
+    {
+        "merged": "com.example.mdk0103_kravchenko_4.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.example.mdk0103_kravchenko_4.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-pngs-31:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-pngs-31:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-pngs-31:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\drawable_cat_night.png.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\drawable\\cat_night.png"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\0evak\\.gradle\\daemon\\9.6.0\\com.example.mdk0103_kravchenko_4.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#4990C2</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Котик</string>
+    <string name="button_day"> День</string>
+    <string name="button_evening"> Вечер</string>
+    <string name="button_morning"> Утро</string>
+    <string name="button_night">☾ Ночь</string>
+    <string name="cat_desc">Котик</string>
+    <string name="day_scene">Котик играет с клубком</string>
+    <string name="evening_scene">Котика моют в ванной</string>
+    <string name="food_desc">Миска с кормом</string>
+    <string name="morning_scene">Котик завтракает</string>
+    <string name="night_scene">Котик спит, его гладят</string>
+    <style name="Base.Theme.MDK0103_Kravchenko_4" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MDK0103_Kravchenko_4" parent="Base.Theme.MDK0103_Kravchenko_4"/>
+</resources>
